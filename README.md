@@ -2,7 +2,7 @@
 Aman Mishra 
 Mumbai, MH, India | +91-7021638721 | aman.fullstackdev@gmail.com | LinkedIn | Portfolio |GitHub| LeetCode 
  
-Full Stack Developer | Python +Java + Spring Boot + React | AWS | Docker 
+Full Stack Developer | Python +FastAPI+Java + Spring Boot + React | AWS | Docker 
 Full Stack Developer with experience building scalable web applications using Spring Boot and React. Developed 20+ REST APIs, implemented 
 JWT-based authentication, and optimized backend performance by up to 30%. Deployed containerized applications on AWS EC2. Strong in 
 designing clean backend architecture and integrating frontend with secure APIs. 
